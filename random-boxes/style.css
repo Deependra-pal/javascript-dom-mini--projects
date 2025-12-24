@@ -1,0 +1,30 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html, body {
+  height: 100%;
+  width: 100%;
+}
+
+main {
+  height: 100%;
+  width: 100%;
+  background-color: #000;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+main button {
+  padding: 10px 20px;
+  background-color: green;
+  border-radius: 10px;
+  border: none;
+  font-size: 20px;
+  z-index: 1;
+}
+main button:active {
+  scale: 0.95;
+}/*# sourceMappingURL=style.css.map */
