@@ -6,6 +6,7 @@ This repository contains beginner - friendly Javascript DOM mini project built u
 ## Project Included 
   - counter-app
   - Theme Toggle (Dark / Light Mode)
+  - random-boxes
     
 ## Counter App 
 A simple counter application where users can :-
