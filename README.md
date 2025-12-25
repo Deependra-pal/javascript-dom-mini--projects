@@ -7,12 +7,9 @@ This repository contains beginner - friendly Javascript DOM mini project built u
   - counter-app
   - Theme Toggle (Dark / Light Mode)
   - random-boxes
+  - mouse-tracker
     
-## Counter App 
-A simple counter application where users can :-
- - Increase the count
- - Decrease the count
- - Reset the count
+ 
 
 This project is built to practice:-
 -DOM manipulation
@@ -21,6 +18,14 @@ This project is built to practice:-
 
 ## Purpose
 The purpuse of this repository is to practice Javascript DOM concepts and built a strong foundation for frontend  development.
+
+ 
+
+
+
+ 
+
+ 
 
 
 
