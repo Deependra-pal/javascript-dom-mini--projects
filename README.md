@@ -8,6 +8,7 @@ This repository contains beginner - friendly Javascript DOM mini project built u
   - Theme Toggle (Dark / Light Mode)
   - random-boxes
   - mouse-tracker
+  - card-project
     
  
 
