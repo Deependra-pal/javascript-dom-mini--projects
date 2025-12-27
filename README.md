@@ -9,6 +9,7 @@ This repository contains beginner - friendly Javascript DOM mini project built u
   - random-boxes
   - mouse-tracker
   - card-project
+  - key-press-dom
     
  
 
