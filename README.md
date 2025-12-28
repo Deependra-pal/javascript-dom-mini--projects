@@ -10,6 +10,7 @@ This repository contains beginner - friendly Javascript DOM mini project built u
   - mouse-tracker
   - card-project
   - key-press-dom
+  - image-swap
     
  
 
